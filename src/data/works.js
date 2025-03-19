@@ -1,5 +1,5 @@
 import InvestCalcImg from "../images/InvestCalc.png";
-import TictactoeImg from "../images/Tic-tac-toe.jpg";
+import TictactoeImg from "../images/Tictactoe.JPG.jpg";
 import BankistImg from "../images/Bankist.jpg";
 import GuesNumImg from "../images/GuessNumber.jpg";
 import ImpactGapImg from "../images/Impactgapyear.jpg";
