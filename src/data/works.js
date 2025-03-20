@@ -6,19 +6,19 @@ export default [
     workUrl: "https://investment-calculator-erwinllano.vercel.app/",
   },
   {
-    title: "Tic-Tac-Toe",
+    title: "Tic-Tac-Toe - Game Web App",
     imgUrl: "https://i.imgur.com/AmNEab8.jpeg",
     tech: ["ReactJS", "HTML5", "CSS3", "JS", "Vite"],
     workUrl: "https://tic-tac-toe-erwinllano.vercel.app/",
   },
   {
-    title: "Sahog",
+    title: "Sahog Recipe App",
     imgUrl: "https://i.imgur.com/bmKQfxu.jpeg",
     tech: ["HTML5", "CSS3", "JavaScript", "MVC", "API"],
     workUrl: "https://sahog.netlify.app/",
   },
   {
-    title: "Guess Number",
+    title: "Guess Number - Game Web App",
     imgUrl: "https://i.imgur.com/KGN8fdu.jpeg",
     tech: ["HTML5", "CSS3", "JavaScript"],
     workUrl: "https://guess-number-erwin.netlify.app/",
@@ -30,13 +30,13 @@ export default [
     workUrl: "https://impactgapyear.com/",
   },
   {
-    title: "Bank Landing Website",
+    title: "Bank Landing Page",
     imgUrl: "https://i.imgur.com/hUsOvsv.jpeg",
     tech: ["HTML5", "CSS3", "JavaScript"],
     workUrl: "https://bankist-erwin.netlify.app/",
   },
   {
-    title: "Omnifood",
+    title: "Food Landing Page",
     imgUrl: "https://i.imgur.com/8MSfPtK.jpeg",
     tech: ["HTML5", "CSS3", "JavaScript"],
     workUrl: "https://omnifood-erwin.netlify.app/",

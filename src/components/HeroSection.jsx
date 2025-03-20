@@ -11,7 +11,7 @@ function HeroSection() {
       </div>
       <div className="text-center">
         <h1 className="text-2xl md:text-4xl mb-1 md:mb-3 text-customColor dark:text-customColor font-semibold">
-          Hi, This is Erwin 👋
+          Hi, This is Erwin! 👋
         </h1>
         <p className="text-md md:text-xl max-w-md mb-3 text-gray-600 dark:text-gray-300">
           7+ Years of Building Scalable & Dynamic Websites and Web App.{" "}
