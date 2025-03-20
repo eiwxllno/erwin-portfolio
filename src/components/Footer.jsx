@@ -11,7 +11,7 @@ function Footer() {
         Hire Me!
       </a>
       <p className="text-xs mt-2 text-gray-500 ">
-        © {new Date().getFullYear()}. All rights reserved
+        ©{new Date().getFullYear()}. All rights reserved
       </p>
     </div>
   );

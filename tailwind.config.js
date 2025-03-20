@@ -7,7 +7,7 @@ module.exports = {
         inter: ["inter", "serif"],
       },
       colors: {
-        customColor: "#7A73D1", // Add your custom color here
+        customColor: "#578FCA", // Add your custom color here
       },
     },
   },
