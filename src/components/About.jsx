@@ -16,6 +16,7 @@ function About() {
           interactive web applications. Additionally, I have some experience in
           C#, expanding my capabilities beyond front-end and CMS development.
           Explore my work and let’s collaborate to bring your ideas to life! 🚀
+          — Erwin Llano
         </p>
       </div>
 
