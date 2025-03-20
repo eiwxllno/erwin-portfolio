@@ -19,7 +19,7 @@ export default [
   },
   {
     title: "Guess Number - Game Web App",
-    imgUrl: "https://i.imgur.com/xBIlJb6.jpeg",
+    imgUrl: "https://i.imgur.com/YLcR7Yd.jpeg",
     tech: ["HTML5", "CSS3", "JavaScript"],
     workUrl: "https://guess-number-erwin.netlify.app/",
   },
