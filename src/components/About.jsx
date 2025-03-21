@@ -8,7 +8,7 @@ function About() {
       <div className="w-full md:w-6/12">
         <SectionTitle>About Me</SectionTitle>
         <p className="text-md text-gray-600 dark:text-gray-300">
-          A Front-end Software Engineer with 7 years of experience in website
+          A Front-end Software Engineer with 7+ years of experience in website
           development, I specialize in both CMS-based and custom web development
           solutions. My expertise lies in crafting high-performing websites
           using platforms like WordPress, along with fully customized solutions.
@@ -18,6 +18,12 @@ function About() {
           Explore my work and let’s collaborate to bring your ideas to life! 🚀
           — Erwin Llano
         </p>
+        <a
+          href="mailto:erwinllano95@gmail.com"
+          className="inline-block px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-customColor hover:bg-customColor/90 md:text-md mt-6"
+        >
+          Hire Me!
+        </a>
       </div>
 
       <img
