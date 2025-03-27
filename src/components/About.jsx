@@ -22,7 +22,7 @@ function About() {
           href="mailto:erwinllano95@gmail.com"
           className="inline-block px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-customColor hover:bg-customColor/90 md:text-md mt-6"
         >
-          Hire Me
+          Contact
         </a>
       </div>
 
