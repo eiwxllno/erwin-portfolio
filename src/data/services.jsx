@@ -15,6 +15,6 @@ export default [
     title: "Wordpress Development",
     icon: <MdWeb className="w-full h-full" />,
     description:
-      "With years of experience in WordPress, I craft sleek, responsive, and easy-to-manage websites. Whether it’s a business site, blog, or e-commerce store, I blend functionality with creativity for a smooth user experience.",
+      "With years of experience in Wordpress, I craft sleek, responsive, and easy-to-manage websites. Whether it’s a business site, blog, or e-commerce store, I blend functionality with creativity for a smooth user experience.",
   },
 ];
