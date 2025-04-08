@@ -12,7 +12,7 @@ function About() {
           development, I specialize in both CMS-based and custom web development
           solutions. My expertise lies in crafting high-performing websites
           using platforms like wordpress, along with fully customized solutions.
-          JavaScript Programming is my language of choice, allowing me to build
+          JavaScript programming is my language of choice, allowing me to build
           dynamic and interactive web applications. Additionally, I have some
           experience in C#, expanding my capabilities beyond front-end and CMS
           development. Explore my work and let’s collaborate to bring your ideas
