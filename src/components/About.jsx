@@ -11,12 +11,12 @@ function About() {
           A Front-end Software Engineer with 7+ years of experience in website
           development, I specialize in both CMS-based and custom web development
           solutions. My expertise lies in crafting high-performing websites
-          using platforms like WordPress, along with fully customized solutions.
-          JavaScript is my language of choice, allowing me to build dynamic and
-          interactive web applications. Additionally, I have some experience in
-          C#, expanding my capabilities beyond front-end and CMS development.
-          Explore my work and let’s collaborate to bring your ideas to life! 🚀
-          — Erwin Llano
+          using platforms like wordpress, along with fully customized solutions.
+          JavaScript Programming is my language of choice, allowing me to build
+          dynamic and interactive web applications. Additionally, I have some
+          experience in C#, expanding my capabilities beyond front-end and CMS
+          development. Explore my work and let’s collaborate to bring your ideas
+          to life! 🚀 — Erwin Llano
         </p>
         <a
           href="mailto:erwinllano95@gmail.com"
