@@ -15,7 +15,8 @@ function HeroSection() {
           <span className="inline-block animate-wave">👋</span>
         </h1>
         <p className="text-md md:text-xl max-w-md mb-3 text-gray-600 dark:text-gray-300">
-          7+ Years of Building Scalable & Dynamic Websites and Web App.{" "}
+          Experienced in building scalable & dynamic websites and web
+          applications{" "}
         </p>
         <a
           href="#works"

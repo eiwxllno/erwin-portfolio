@@ -8,7 +8,7 @@ function About() {
       <div className="w-full md:w-6/12">
         <SectionTitle>About Me</SectionTitle>
         <p className="text-md text-gray-600 dark:text-gray-300">
-          A Front-end Software Engineer with 7+ years of experience in website
+          A Front-end Software Engineer with years of experience in website
           development, I specialize in both CMS-based and custom web development
           solutions. My expertise lies in crafting high-performing websites
           using platforms like wordpress, along with fully customized solutions.
