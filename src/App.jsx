@@ -7,13 +7,12 @@ import Skills from "./components/Skills";
 import Works from "./components/Works";
 
 function App() {
-  const [theme, setTheme] = useState(null);
+  const [theme, setTheme] = useState("dark"); // Set dark as default
 
   useEffect(() => {
-    if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+    // Only check system preference if no theme is set (though we've set default now)
+    if (!theme && window.matchMedia("(prefers-color-scheme: dark)").matches) {
       setTheme("dark");
-    } else {
-      setTheme("light");
     }
   }, []);
 
