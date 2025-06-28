@@ -6,7 +6,7 @@ export default [
     workUrl: "https://investment-calculator-erwinllano.vercel.app/",
   },
   {
-    title: "TicTacToe - Game Web App",
+    title: "Tic Tac Toe",
     imgUrl: "https://i.imgur.com/EpTLfuR.jpeg",
     tech: ["ReactJS", "HTML5", "CSS3", "JS", "Vite"],
     workUrl: "https://tic-tac-toe-erwinllano.vercel.app/",
@@ -18,7 +18,7 @@ export default [
     workUrl: "https://sahog.netlify.app/",
   },
   {
-    title: "Guess Number - Game Web App",
+    title: "Guess Number",
     imgUrl: "https://i.imgur.com/lynPDwL.jpeg",
     tech: ["HTML5", "CSS3", "JavaScript"],
     workUrl: "https://guess-number-erwin.netlify.app/",
