@@ -1,5 +1,11 @@
 export default [
   {
+    title: "Amazon Clone",
+    imgUrl: "https://i.imgur.com/nKBy7ph.jpeg",
+    tech: ["HTML5", "CSS3", "JS", "MVC"],
+    workUrl: "https://#/",
+  },
+  {
     title: "Investment Calculator",
     imgUrl: "https://i.imgur.com/M5nCP3x.jpeg",
     tech: ["ReactJS", "HTML5", "CSS3", "JS", "Vite"],
