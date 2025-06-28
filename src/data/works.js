@@ -3,7 +3,7 @@ export default [
     title: "Amazon Clone",
     imgUrl: "https://i.imgur.com/nKBy7ph.jpeg",
     tech: ["HTML5", "CSS3", "JS", "MVC"],
-    workUrl: "https://#/",
+    workUrl: "https://amazon-clone-erwinllano.netlify.app/",
   },
   {
     title: "Investment Calculator",
