@@ -12,22 +12,10 @@ export default [
     workUrl: "https://investment-calculator-erwinllano.vercel.app/",
   },
   {
-    title: "Tic Tac Toe",
-    imgUrl: "https://i.imgur.com/EpTLfuR.jpeg",
-    tech: ["ReactJS", "HTML5", "CSS3", "JS", "Vite"],
-    workUrl: "https://tic-tac-toe-erwinllano.vercel.app/",
-  },
-  {
     title: "Sahog - Recipe App",
     imgUrl: "https://i.imgur.com/AB7k4rr.jpeg",
     tech: ["HTML5", "CSS3", "JavaScript", "MVC", "API"],
     workUrl: "https://sahog.netlify.app/",
-  },
-  {
-    title: "Guess Number",
-    imgUrl: "https://i.imgur.com/lynPDwL.jpeg",
-    tech: ["HTML5", "CSS3", "JavaScript"],
-    workUrl: "https://guess-number-erwin.netlify.app/",
   },
   {
     title: "Impact Gap Year",
