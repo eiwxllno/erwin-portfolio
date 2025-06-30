@@ -20,7 +20,7 @@ export default [
   {
     title: "Impact Gap Year",
     imgUrl: "https://i.imgur.com/NGhCcKl.jpeg",
-    tech: ["HTML5", "CSS3", "Wordpress", "PHP"],
+    tech: ["Wordpress", "HTML5", "CSS3", "PHP"],
     workUrl: "https://impactgapyear.com/",
   },
   {
