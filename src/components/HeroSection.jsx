@@ -24,6 +24,12 @@ function HeroSection() {
         >
           See Works
         </a>
+        <a
+          href="https://www.fiverr.com/erwinllano"
+          className="inline-block px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-customColor hover:bg-customColor/90 md:text-md "
+        >
+          Contact
+        </a>
       </div>
     </div>
   );
