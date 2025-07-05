@@ -12,7 +12,15 @@ function HeroSection() {
       <div className="text-center">
         <h1 className="text-2xl md:text-4xl mb-1 md:mb-3 text-customColor dark:text-customColor font-semibold">
           Hi, This is Erwin!{" "}
-          <span className="inline-block animate-wave">👋</span>
+          <span
+            className="inline-block animate-[wave_2s_infinite]"
+            style={{
+              transformOrigin: "70% 70%",
+              animation: "wave 2s infinite",
+            }}
+          >
+            👋
+          </span>
         </h1>
         <p className="text-md md:text-xl max-w-md mb-6 text-gray-600 dark:text-gray-300">
           Experienced in building scalable & dynamic websites and web
