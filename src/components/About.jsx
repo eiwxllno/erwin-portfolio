@@ -19,7 +19,8 @@ function About() {
           to life! 🚀 — Erwin Llano
         </p>
         <a
-          href="mailto:erwinllano95@gmail.com"
+          // href="mailto:erwinllano95@gmail.com"
+          href="https://www.fiverr.com/erwinllano"
           className="inline-block px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-customColor hover:bg-customColor/90 md:text-md mt-6"
         >
           Contact
