@@ -13,10 +13,10 @@ function HeroSection() {
         <h1 className="text-2xl md:text-4xl mb-1 md:mb-3 text-customColor dark:text-customColor font-semibold">
           Hi, This is Erwin!{" "}
           <span
-            className="inline-block animate-[wave_2s_infinite]"
+            className="inline-block animate-[wave_2s]"
             style={{
               transformOrigin: "70% 70%",
-              animation: "wave 2s infinite",
+              animation: "wave 2s",
             }}
           >
             👋
