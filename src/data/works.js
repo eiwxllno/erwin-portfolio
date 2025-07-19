@@ -4,7 +4,7 @@ export default [
     imgUrl: "https://i.imgur.com/nZgrToO.jpeg",
     tech: ["Wordpress", "PHP", "HTML5", "CSS3", "JS", "Sass"],
     workUrl: "https://pawshop.is-great.net/",
-    sourceUrl: "https://github.com/yourusername/amazon-clone", // Add your GitHub link
+    sourceUrl: "https://github.com/eiwxllno/Pawshop", // Add your GitHub link
   },
   {
     title: "Amazon Clone",
